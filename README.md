@@ -23,18 +23,18 @@ Passionate about building scalable, responsive, and user-friendly software solut
 </p>
 
 ---
-
 # 👩‍💻 About Me
 
-🎓 **BS Information Technology Graduate** from **University of the Punjab**
-
-💼 **Full-Stack Developer Intern** at **Decode Labs**
+🎓 **BS Information Technology (2022 - 2026)**  
+**University of the Punjab**
 
 💼 **Hybrid MERN Stack Intern** at **ML-Bench Pvt Ltd**
 
+💼 **Full-Stack Developer Intern** at **Decode Labs**
+
 🌱 Currently improving my skills in full-stack development, backend engineering, database management, and software development practices.
 
-💡 Interested in building efficient, scalable, and impactful applications using modern technologies.
+💡 Passionate about building scalable, efficient, and user-friendly software solutions using modern technologies.
 
 📍 Lahore, Pakistan
 
