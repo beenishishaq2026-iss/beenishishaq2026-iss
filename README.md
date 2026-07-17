@@ -96,7 +96,7 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 # 🚀 Featured Projects
 
-## 🔹 BiVerify – QR-Based Compliance Verification System
+## 🔹 BiVerify – QR-Based Compliance Verification System (FYP)
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
