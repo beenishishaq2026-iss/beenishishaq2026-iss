@@ -50,7 +50,7 @@ Passionate about building scalable, responsive, and user-friendly software solut
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,cs,html,css"/>
 </p>
 
-**C++** • **Java** • **Python** • **JavaScript (ES6+)** • **C#** • **HTML5** • **CSS3**
+**C++** • **Java** • **Python** • **JavaScript (ES6+)** • **C#** • **HTML5** • **CSS3** • **Tailwind CSS** 
 
 ---
 
