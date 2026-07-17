@@ -176,15 +176,18 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/beenish-ishaq/">
+<a href="https://www.linkedin.com/in/beenish-ishaq/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Beenish%20Ishaq-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:beenishishaq2026@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-beenishishaq2026%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-beenishishaq2026%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
+
+📧 Email: **beenishishaq2026@gmail.com**
+
 
 ---
 
