@@ -93,15 +93,16 @@ Passionate about building scalable, responsive, and user-friendly software solut
 **Git** • **GitHub** • **VS Code** • **Postman** • **NPM**
 
 ---
-
 # 🚀 Featured Projects
 
-## 🔹 BiVerify – QR-Based Compliance Verification System (FYP)
+## 🔹 BiVerify – QR-Based Compliance Verification System
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
+🔗 **Repository:** [BiVerify Project](YOUR_BIVerify_REPO_LINK)
+
 - Multi-tenant B2B compliance verification platform
-- QR-based verification system
+- QR-based compliance verification
 - JWT Authentication
 - Role-Based Access Control (RBAC)
 - Document Management
@@ -113,11 +114,11 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
+- Full-stack job portal application
 - User authentication and authorization
 - Job posting and management
 - REST API integration
 - CRUD operations
-- Responsive user interface
 
 ---
 
@@ -125,9 +126,24 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 **Tech Stack:** React.js | Tailwind CSS
 
-- Modern responsive landing page
+🔗 **Repository:** [Task2 MLBench OnePager Design](https://github.com/beenishishaq2026-iss/Task2-MLBench-OnePagerDesign)
+
+- Responsive one-page website
 - Component-based React architecture
-- Responsive UI design
+- Tailwind CSS styling
+- Modern UI implementation
+
+---
+
+## 🔹 Simple React Application
+
+**Tech Stack:** React.js | JavaScript | Vite
+
+🔗 **Repository:** [Task1 MLBench Simple React App](https://github.com/beenishishaq2026-iss/Task1-MLBench-Simple-React-App)
+
+- React fundamentals practice project
+- Component-based development
+- Modern frontend structure
 
 ---
 
@@ -135,10 +151,12 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 **Tech Stack:** Java | JSP | Servlets | MySQL
 
+🔗 **Repository:** [Book Catalog System](https://github.com/beenishishaq2026-iss/book-catalog-system-java)
+
 - Web-based book management application
-- Implemented CRUD operations
-- Database connectivity using MySQL
-- Server-side processing using Java Servlets
+- CRUD operations for book records
+- Java Servlet-based backend processing
+- MySQL database integration
 
 ---
 
@@ -146,21 +164,25 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 **Tech Stack:** ASP.NET MVC | SQL Server
 
-- Product management system
-- Database-driven web application
+🔗 **Repository:** [Online Plants Shop](https://github.com/beenishishaq2026-iss/OnlinePlantsShop)
+
+- E-commerce style plant shopping application
+- Product management features
 - MVC architecture implementation
+- Database-driven application
 
 ---
 
-## 🔹 Baby Cry Detection System
+## 🔹 Baby Cry Detection Using Machine Learning & Deep Learning
 
-**Tech Stack:** Python | Machine Learning | scikit | Librosa ,tensorflow
+**Tech Stack:** Python | Machine Learning | Deep Learning
+
+🔗 **Repository:** [Baby Cry Detection Project](https://github.com/beenishishaq2026-iss/Baby-Cry-Detection-using-Machine-Learning-Deep-Learning)
 
 - Audio classification system
 - Feature extraction using Librosa
-- Machine learning model implementation
-
----
+- Machine learning and deep learning models
+- Applied AI techniques for audio analysis
 
 # 🌱 Currently Learning
 
