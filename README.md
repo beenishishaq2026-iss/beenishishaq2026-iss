@@ -154,7 +154,7 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 ## 🔹 Baby Cry Detection System
 
-**Tech Stack:** Python | Machine Learning
+**Tech Stack:** Python | Machine Learning | scikit | Librosa ,tensorflow
 
 - Audio classification system
 - Feature extraction using Librosa
