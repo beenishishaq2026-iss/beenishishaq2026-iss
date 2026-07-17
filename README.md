@@ -26,7 +26,7 @@ Passionate about building scalable, responsive, and user-friendly software solut
 # 👩‍💻 About Me
 
 🎓 **BS Information Technology (2022 - 2026)**  
-** FCIT, University of the Punjab**
+**FCIT, University of the Punjab**
 
 💼 **Hybrid MERN Stack Intern** at **ML-Bench Pvt Ltd**
 
