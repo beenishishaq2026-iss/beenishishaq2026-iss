@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Beenish Ishaq</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer | Software Engineer | React & Node.js Enthusiast
+Software Engineer | Full-Stack Developer | Passionate About Building Modern Web Applications
 </h3>
 
 <p align="center">
-Building responsive, scalable, and user-friendly web applications using modern technologies.
+Building responsive, scalable, and user-friendly applications while continuously learning new technologies.
 </p>
 
 <p align="center">
@@ -24,16 +24,15 @@ Building responsive, scalable, and user-friendly web applications using modern t
 
 # 👩‍💻 About Me
 
-🎓 **BS Information Technology**  
-University of the Punjab
+🎓 BS Information Technology graduate from the University of the Punjab
 
-💼 **MERN Stack Intern** at ML-Bench Pvt Ltd
+💼 MERN Stack Intern at **ML-Bench Pvt Ltd**
 
-💼 **Frontend Developer Intern** at Decode Labs
+💼 Frontend Developer Intern at **Decode Labs**
 
-🌱 Currently learning advanced **React.js**, **Node.js**, **Express.js**, **MongoDB**, and building scalable full-stack applications.
+🌱 Currently expanding my expertise in full-stack development, software engineering, and backend technologies.
 
-💡 Passionate about creating clean, responsive, and efficient web applications.
+💡 I enjoy solving real-world problems by building efficient, scalable, and user-friendly applications.
 
 📍 Lahore, Pakistan
 
@@ -41,12 +40,12 @@ University of the Punjab
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,cs,html,css" />
 </p>
 
 ### 🎨 Frontend
@@ -58,16 +57,16 @@ University of the Punjab
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
@@ -77,85 +76,40 @@ University of the Punjab
 
 # 🚀 Featured Projects
 
-## 🔹 BiVerify – QR-Based Compliance Verification System
+### 🔹 BiVerify – QR-Based Compliance Verification System
 
-✔ Multi-Tenant MERN Application
+- Multi-tenant full-stack application
+- QR Code Verification
+- Role-Based Access Control (RBAC)
+- JWT Authentication
+- Document Management
+- Audit Logging
 
-✔ QR Code Verification
+### 🔹 MERN Job Portal
 
-✔ JWT Authentication
+- Authentication & Authorization
+- REST APIs
+- CRUD Operations
+- Responsive Design
 
-✔ Role-Based Access Control (RBAC)
+### 🔹 OnePager Website
 
-✔ Document Management
+- React.js
+- Tailwind CSS
+- Responsive User Interface
 
-✔ Audit Logging
+### 🔹 Online Plant Shop
 
----
+- ASP.NET MVC
+- SQL Server
+- Product & Order Management
 
-## 🔹 MERN Job Portal
+### 🔹 Baby Cry Detection System
 
-✔ Authentication
-
-✔ REST APIs
-
-✔ CRUD Operations
-
-✔ Responsive Design
-
----
-
-## 🔹 OnePager Website
-
-✔ React.js
-
-✔ Tailwind CSS
-
-✔ Responsive Layout
-
-✔ Modern UI
-
----
-
-## 🔹 Online Plant Shop
-
-✔ ASP.NET MVC
-
-✔ SQL Server
-
-✔ Product Management
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=beenishishaq2026-iss&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beenishishaq2026-iss&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=beenishishaq2026-iss&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=beenishishaq2026-iss&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
+- Python
+- Machine Learning
+- Audio Classification
+- Feature Extraction using Librosa
 
 ---
 
@@ -175,12 +129,12 @@ University of the Punjab
 
 ---
 
-# 💭 Developer Mindset
+# 💭 Philosophy
 
-> *"I enjoy turning ideas into clean, scalable, and user-friendly web applications while continuously learning new technologies."*
+> *"I believe in writing clean code, continuously learning, and building software that solves real-world problems."*
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me!
 </p>
