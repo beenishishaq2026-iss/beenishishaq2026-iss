@@ -114,6 +114,8 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
+🔗 **Repository:** [MERN Job Portal Project](https://github.com/beenishishaq2026-iss/JobPortal-MERN-FullStack)
+
 - Full-stack job portal application
 - User authentication and authorization
 - Job posting and management
