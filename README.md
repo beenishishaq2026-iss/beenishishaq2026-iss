@@ -99,7 +99,7 @@ Passionate about building scalable, responsive, and user-friendly software solut
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
-🔗 **Repository:** [BiVerify Project](YOUR_BIVerify_REPO_LINK)
+🔗 **Repository:** [BiVerify Project](https://github.com/beenishishaq2026-iss/Biverify-App-Free-Compliance-Verification-System)
 
 - Multi-tenant B2B compliance verification platform
 - QR-based compliance verification
